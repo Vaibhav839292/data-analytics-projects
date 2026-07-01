@@ -1,4 +1,4 @@
-# Entertainment Industry Analysis — Trends, Genres & Audience Targeting
+# IMDB Movie Insights & Data Analytics by Vaibhav
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-00838F?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/ashishjangra27/imdb-movies-analysis)
 
